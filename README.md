@@ -5,3 +5,5 @@
 4. 使用Swing组件创建用户界面，例如使用JFrame, JTextField, JButton等；
 5. 使用布局管理器合理排列组件；
 6. 为按钮添加事件监听器，实现计算逻辑和界面交互。
+
+![img.png](img/img.png)
